@@ -184,14 +184,17 @@ A small number of vehicles have unusually high prices relative to their mileage,
 
 # 📊 Example Visualizations
 
-*(Add screenshots here once you export plots)*
+### Most Popular Car Variants
+![car variants](./images/carvar.png)
 
-```
-images/
-   price_distribution.png
-   correlation_heatmap.png
-   mileage_vs_price.png
-```
+### Correlation between Price and Mileage
+![price vs mileage](./images/priceVSmileage.png)
+
+### Price distribution between Registered and Non-Registered cars
+![price vs mileage](./images/pricedist.png)
+
+### Correlation heatmap between all features
+![Correlation between features](./images/corr.png)
 
 ---
 
