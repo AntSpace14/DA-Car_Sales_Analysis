@@ -1,4 +1,4 @@
-# 🚗 Car Sales Analysis
+# 🚗 Car Price Analysis & Market Insights
 
 **Exploratory Data Analysis of the Used Car Market**
 
